@@ -1,0 +1,7 @@
+*.so
+*.o
+*.pyc
+*.aux
+arxiv.log
+arxiv.pdf
+*.pax
