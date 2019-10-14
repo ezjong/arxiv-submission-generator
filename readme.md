@@ -1,7 +1,7 @@
 # Make arXiv preprints
 Provide a way to make quick arXiv preprints, without the annoying compile steps on ```arXiv.org```.
 
-```
+```bash
 # The steps below are for installing the PDFBOX and PAX, a tool reinserting annotations with pdftex
 
 
